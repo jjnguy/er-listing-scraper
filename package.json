@@ -1,0 +1,23 @@
+{
+  "name": "er-listing-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjnguy/er-listing-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjnguy/er-listing-scraper/issues"
+  },
+  "homepage": "https://github.com/jjnguy/er-listing-scraper#readme",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
